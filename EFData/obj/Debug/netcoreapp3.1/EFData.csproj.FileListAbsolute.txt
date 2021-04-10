@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\bin\Debug\netcoreapp3.1\EFData.deps.json
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\bin\Debug\netcoreapp3.1\EFData.runtimeconfig.json
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\bin\Debug\netcoreapp3.1\EFData.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\bin\Debug\netcoreapp3.1\EFData.dll
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\bin\Debug\netcoreapp3.1\EFData.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\bin\Debug\netcoreapp3.1\EFEntities.dll
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\bin\Debug\netcoreapp3.1\EFEntities.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\obj\Debug\netcoreapp3.1\EFData.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\obj\Debug\netcoreapp3.1\EFData.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\obj\Debug\netcoreapp3.1\EFData.AssemblyInfo.cs
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\obj\Debug\netcoreapp3.1\EFData.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\obj\Debug\netcoreapp3.1\EFData.csproj.CopyComplete
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\obj\Debug\netcoreapp3.1\EFData.dll
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\obj\Debug\netcoreapp3.1\EFData.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\EFData\obj\Debug\netcoreapp3.1\EFData.genruntimeconfig.cache

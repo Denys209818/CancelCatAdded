@@ -1,0 +1,17 @@
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\bin\Debug\netcoreapp3.1\ApplicationSettings.deps.json
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\bin\Debug\netcoreapp3.1\ApplicationSettings.runtimeconfig.json
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\bin\Debug\netcoreapp3.1\ApplicationSettings.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\bin\Debug\netcoreapp3.1\ApplicationSettings.dll
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\bin\Debug\netcoreapp3.1\ApplicationSettings.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\bin\Debug\netcoreapp3.1\EFData.dll
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\bin\Debug\netcoreapp3.1\EFEntities.dll
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\bin\Debug\netcoreapp3.1\EFData.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\bin\Debug\netcoreapp3.1\EFEntities.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\obj\Debug\netcoreapp3.1\ApplicationSettings.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\obj\Debug\netcoreapp3.1\ApplicationSettings.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\obj\Debug\netcoreapp3.1\ApplicationSettings.AssemblyInfo.cs
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\obj\Debug\netcoreapp3.1\ApplicationSettings.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\obj\Debug\netcoreapp3.1\ApplicationSettings.csproj.CopyComplete
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\obj\Debug\netcoreapp3.1\ApplicationSettings.dll
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\obj\Debug\netcoreapp3.1\ApplicationSettings.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\CancelAddedCats\ApplicationSettings\obj\Debug\netcoreapp3.1\ApplicationSettings.genruntimeconfig.cache
