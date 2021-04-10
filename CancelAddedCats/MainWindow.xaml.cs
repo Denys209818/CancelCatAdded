@@ -60,7 +60,7 @@ namespace CancelAddedCats
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
             int res;
-            if(int.TryParse(this.txtCount.Text, out res)) 
+            if(int.TryParse(this.txtCount.Text, out res) && res > 0) 
             {
                 AddWindow dlg = new AddWindow(res, _context);
                 dlg.Show();
